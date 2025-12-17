@@ -11,5 +11,9 @@ public class Lab05_Common_Math_Exception {
         System.out.println(2+0);
         System.out.println(2-0);
         System.out.println(2*0);
+        //System.out.println('10/0');
+        //System.out.println('0/10');
+        //System.out.println('0/0');
+        System.out.println('10/10');
     }
 }
