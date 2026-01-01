@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab001_Printf_Table9 {
+public class Lab002_Printf_Table9 {
     public static void main(String[] args) {
         byte i = 9;
         System.out.printf("%d x 1 = %d",i, i);
