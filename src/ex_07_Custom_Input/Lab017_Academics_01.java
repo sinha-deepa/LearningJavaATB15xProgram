@@ -13,7 +13,7 @@ D: 60-69
 F: 0-59
  */
 
-public class Lab017_Custom_Input_01 {
+public class Lab017_Academics_01 {
     public static void main (String[] args){
         System.out.println("Enter marks obtained");
         Scanner scanner = new Scanner(System.in);

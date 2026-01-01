@@ -13,7 +13,7 @@ System.out.println(a++ + a--);//11
 
 package ex_07_Custom_Input;
 
-public class Lab020_Custom_Input_04 {
+public class Lab020_Increment_Decrement_04 {
     public static void main(String[] args){
         int a = 10;
         a = a++ + a++ + a++;

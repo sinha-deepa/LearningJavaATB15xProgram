@@ -8,7 +8,7 @@ and for multiples of 5, print "Buzz." For numbers that are multiples of both 3 a
 
 package ex_07_Custom_Input;
 
-public class Lab018_Custom_Input_02 {
+public class Lab018_Fizz_Buzz_02 {
     public static void main (String[] args){
         for (int i = 1; i <= 100; i++) {
             if (i % 3 == 0 && i % 5 == 0) {

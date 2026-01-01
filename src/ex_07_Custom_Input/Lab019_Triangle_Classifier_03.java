@@ -10,7 +10,7 @@ package ex_07_Custom_Input;
 
 import java.util.Scanner;
 
-public class Lab019_Custom_Input_03 {
+public class Lab019_Triangle_Classifier_03 {
     public static void main(String[] args){
         Scanner scanner =new Scanner (System.in);
         System.out.println("Enter Side A length: ");
