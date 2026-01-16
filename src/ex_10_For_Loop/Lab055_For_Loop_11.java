@@ -8,6 +8,5 @@ public class Lab055_For_Loop_11 {
         for (int i = 0; i <10; i++) {
             System.out.println("print the details of rhe elements");
         }
-
     }
 }
