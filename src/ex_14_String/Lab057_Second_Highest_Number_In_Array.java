@@ -1,4 +1,4 @@
-package ex_15_String;
+package ex_14_String;
 
 public class Lab057_Second_Highest_Number_In_Array {
     public static void main(String[] args) {

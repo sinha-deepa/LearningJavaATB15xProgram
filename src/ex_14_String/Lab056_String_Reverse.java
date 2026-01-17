@@ -1,4 +1,4 @@
-package ex_15_String;
+package ex_14_String;
 
 import java.util.Scanner;
 

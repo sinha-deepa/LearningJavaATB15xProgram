@@ -1,0 +1,22 @@
+package ex_13_Functions;
+
+import java.util.Scanner;
+
+public class Lab071_User_Defined_Functions_04 {
+    public static void main(String[] args) {
+        say_hi();
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter a number a =");
+        int a = scanner.nextInt();
+        System.out.println("Enter a number b =");
+        int b = scanner.nextInt();
+        int sum = sum_two_numbers(a,b);
+        System.out.println("Sum of the number os = "+sum);
+    }
+    static int sum_two_numbers(int x,int y){
+        return x+y;
+    }
+    static void say_hi(){
+        System.out.println("Hi,there");
+    }
+}
