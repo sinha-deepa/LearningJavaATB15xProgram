@@ -1,6 +1,6 @@
 package ex_14_String;
 
-public class Lab057_Second_Highest_Number_In_Array {
+public class Lab076_Second_Highest_Number_In_Array {
     public static void main(String[] args) {
         /*
         Find the 2nd Highest in Array(no in built function)

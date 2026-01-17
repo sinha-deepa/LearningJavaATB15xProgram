@@ -2,7 +2,7 @@ package ex_14_String;
 
 import java.util.Scanner;
 
-public class Lab056_String_Reverse {
+public class Lab075_String_Reverse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a string to reverse: ");
