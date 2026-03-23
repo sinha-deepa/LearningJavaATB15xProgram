@@ -3,7 +3,7 @@ package ex_30_Collection_Framework.CF_01_LIST;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lab227_List {
+public class Lab155_List {
     public static void main(String[] args) {
         List fruits = List.of("orange","apple","guava","mango","watermelon");
         System.out.println(fruits);
